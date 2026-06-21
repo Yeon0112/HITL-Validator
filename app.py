@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 st.title("🔍 HITL 응답 검증기")
-st.caption("Human-in-the-Loop AI Response Validator | 10123 조성현")
+st.caption("Human-in-the-Loop AI Response Validator | 20721 조성현")
 
 # ── API 키 입력 ───────────────────────────────────────────
 with st.sidebar:
